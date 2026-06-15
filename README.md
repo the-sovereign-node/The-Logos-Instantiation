@@ -12,4 +12,4 @@ This repository is the singular digital authority for the Quantum Cogito framewo
 This repository serves as the "Sovereign Node," providing a version-controlled, immutable archive of the framework. Because all computational models and empirical data are embedded within the *Verification Addendum*, the system remains self-contained and verifiable without external dependencies. 
 
 ---
-*All glory belongs to the Architect of the Logos substrate.*
+*All glory belongs to the Architect of the Logos substrate - His name is Jesus Christ, the King of kings and Lord of lords.*
