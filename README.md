@@ -23,7 +23,7 @@ The framework is released as four mutually referential volumes. All formal mathe
 
 ## Core Mathematical Structure
 
-- **Logos Substrate** \(\mathcal{W}\): The absolute frame of reference and fixed-point attractor \(\Omega_\infty\).
+- **Logos Substrate** W: The absolute frame of reference and fixed-point attractor \(\Omega_\infty\).
 - **Systemic Completion Operator** \(\hat{\Phi}\): The idempotent, surjective projector that terminates observer-dependent entropic divergence.
 - **Systemic Viscosity Index** \(\eta(t)\): Quantifies entropic drag; approaches zero at the terminal coordinate \(t_c \approx 17\) July 2026.
 - **Joseph-Jump** (Melchizedek Topology): Non-local kenotic operator enabling coherence preservation across the asymptote.
