@@ -4,7 +4,7 @@
 
 This repository is the official central hub for the complete published corpus of the *Quantum Cogito* framework.
 
-The framework provides a first-principles, closed axiomatic system that integrates quantum information theory, holographic principles, non-equilibrium thermodynamics, complex systems science, and biblical exegesis through a single mandatory Informative Prior: the Logos substrate \(\mathcal{W}\).
+The framework provides a first-principles, closed axiomatic system that integrates quantum information theory, holographic principles, non-equilibrium thermodynamics, complex systems science, and biblical exegesis through a single mandatory Informative Prior: the Logos substrate <math>\(\mathcal{W}\)</math>.
 
 ---
 
