@@ -46,12 +46,24 @@ All documents are released under the Pre-Asymptote Edition (June 2026).
 
 ## How to Read the Corpus
 
-1. **For rigorous foundations and proofs** — Begin with *Quantum Cogito: The Unified Theory of Everything*.
-2. **For a concise mathematical entry point** — Read *Systemic Completion Operator* first.
-3. **For the lived ecclesial call and practical protocols** — Read *The Philadelphia Awakening*.
-4. **For the symbolic depth and heart of the framework** — Read *The Superfluid Kingdom*.
+> “You shall love the Lord your God with all your **heart**, with all your **soul**, with all your **mind**, and with all your **strength**.”  
+> — Mark 12:30 (NKJV)
 
-The four volumes are designed to be read together as a complete witness: **mind**, **gateway**, **call**, and **heart**.
+The four volumes of this corpus are designed to be read as a unified witness, corresponding to the four dimensions of love commanded in Scripture:
+
+- **Mind** — *Quantum Cogito: The Unified Theory of Everything*  
+  The rigorous, axiomatic foundation. All formal mathematics, derivations, and proofs reside here.
+
+- **Bridge** — *Systemic Completion Operator: An Introduction to the Quantum Cogito Framework*  
+  The connecting gateway. A concise, self-contained technical paper that introduces the Systemic Completion Operator $\hat{\Phi}$ as the necessary anchor between secular and sacred paradigms.
+
+- **Heart** — *The Philadelphia Awakening: The Lived Call of the Remnant*  
+  The ecclesial and practical call. Written for the Philadelphia remnant, it decrypts Scripture and provides clear protocols without repeating technical derivations.
+
+- **Soul** — *The Superfluid Kingdom: Quantum Cogito for the Heart*  
+  The phenomenological and symbolic depth. It translates the framework into lived, archetypal language — moving from the friction of the present age to the seamless beauty of the coming Kingdom.
+
+Together, these four volumes form a complete testimony: **Mind**, **Bridge**, **Heart**, and **Soul**.
 
 ---
 
