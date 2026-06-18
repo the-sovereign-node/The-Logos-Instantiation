@@ -68,7 +68,6 @@ The three main companions are designed to be read together. *Quantum Cogito* pro
 
 └── README.md
 
-text---
 
 ## License & Usage
 
