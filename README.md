@@ -1,97 +1,66 @@
 # The Logos Instantiation
 
-**Quantum Cogito Framework**  
-Pre-Asymptote Unified Edition — June 2026
+**Quantum Cogito Framework — Pre-Asymptote Unified Edition (June 2026)**
 
-This repository contains the complete public release of the **Quantum Cogito** framework — a unified axiomatic, mathematical, and phenomenological model of reality grounded in the Logos-substrate.
+This repository is the official central hub for the complete published corpus of the *Quantum Cogito* framework.
 
----
-
-## Overview
-
-The framework presents a closed, self-consistent system in which:
-
-- The **Systemic Completion Operator (ˆΦ)** resolves the infinite regress problem in observer-dependent systems.
-- The **Logos-substrate (W)** functions as the necessary fixed-point attractor and absolute frame of reference.
-- The **Systemic Viscosity Index (η(t))** models the entropic drag of the current age and predicts a finite-time singularity at **tc ≈ 17 July 2026**.
-- The **Joseph-Jump** and **Mercy Axiom** describe the topological mechanism of restoration through kenotic descent.
-
-This is not speculative philosophy. It is a rigorously derived, mathematically grounded framework that integrates quantum mechanics, information theory, holographic ontology, archetypal topology, and biblical exegesis into a single coherent system.
+The framework provides a first-principles, closed axiomatic system that integrates quantum information theory, holographic principles, non-equilibrium thermodynamics, complex systems science, and biblical exegesis through a single mandatory Informative Prior: the Logos substrate \(\mathcal{W}\).
 
 ---
 
-## The Four Documents
+## The Published Corpus
 
-This release consists of four mutually referential volumes:
+The framework is released as four mutually referential volumes. All formal mathematics, derivations, and proofs reside exclusively in the master technical volume. The companions do not repeat technical content.
 
-| Document | Type | Purpose | Pages |
-|---------|------|--------|-------|
-| **Systemic Completion Operator** | Technical Introduction | Short, self-contained overview of the core operator ˆΦ and the necessity of the Informative Prior | 4 |
-| **Quantum Cogito: The Unified Theory of Everything** | Consolidated Technical Treatise | The single master volume containing the 13 Postulates, Unification Hamiltonian, full derivations, and formal proofs | 52 |
-| **The Philadelphia Awakening** | Ecclesial & Practical Companion | Plain-language decryption of the end-times call, remnant protocols, and lived application for the Philadelphia remnant | 32 |
-| **The Superfluid Kingdom** | Phenomenological Companion | Heart-level translation of the framework — written to awaken longing for the coming superfluid reality and the New Jerusalem | 51 |
-
----
-
-## Recommended Reading Order
-
-1. **Systemic Completion Operator.pdf** — Begin here for a concise technical orientation.
-2. **Quantum Cogito: The Unified Theory of Everything.pdf** — Read the complete axiomatic and mathematical foundation.
-3. **The Philadelphia Awakening.pdf** — Understand the lived call, scriptural decryption, and practical protocols for the remnant.
-4. **The Superfluid Kingdom.pdf** — Read for the symbolic, archetypal, and devotional dimension.
-
-The three main companions are designed to be read together. *Quantum Cogito* provides the sealed mathematical structure. *The Philadelphia Awakening* provides the ecclesial and practical outworking. *The Superfluid Kingdom* provides the heart and symbolic depth.
+| Volume | Type | Purpose | Primary Audience |
+|--------|------|---------|------------------|
+| **Quantum Cogito: The Unified Theory of Everything** | Master Technical Volume | The single consolidated axiomatic foundation. Contains the 13 Postulates, Unification Hamiltonian, Systemic Completion Operator \(\hat{\Phi}\), Systemic Viscosity Index dynamics, Identification Singularity, Joseph-Jump mechanics, and all rigorous proofs. | Researchers, mathematicians, physicists, theologians |
+| **Systemic Completion Operator: An Introduction to the Quantum Cogito Framework** | Technical Gateway Paper | A concise, self-contained mathematical introduction to the Systemic Completion Operator \(\hat{\Phi}\) as the necessary topological anchor for observer-dependent systems. | Secular academics and scientists |
+| **The Philadelphia Awakening: The Lived Call of the Remnant** | Ecclesial & Practical Companion | Plain-language decryption of end-times Scripture, practical protocols for the Philadelphia remnant (12 + 1 topology), and the lived application of the Joseph-Jump and Mercy Axiom. | Believers and the remnant community |
+| **The Superfluid Kingdom: Quantum Cogito for the Heart** | Phenomenological Companion | A symbolic and narrative translation of the framework into lived, archetypal language. Focuses on the movement from viscous friction to zero-resistance love and the coming superfluid reality. | Readers seeking the heart and beauty of the framework |
 
 ---
 
-## Key Concepts
+## Core Mathematical Structure
 
-- **Systemic Completion Operator (ˆΦ)**: The mandatory foundational operator that closes infinite regress in observer-dependent systems.
-- **Logos-substrate (W)**: The irreducible, absolute frame of reference functioning as the fixed-point attractor (Ω∞).
-- **Systemic Viscosity Index (η(t))**: The measurable resistance of the current age; approaches zero at the terminal coordinate.
-- **Joseph-Jump**: The non-local topological transition through kenotic descent that releases restoration.
-- **Mercy Axiom**: The irreversible guarantee that no soul entangled with the Sovereign Node will be abandoned.
-- **tc ≈ 17 July 2026**: The finite-time singularity at which the phase transition into the superfluid substrate occurs.
-
----
-
-## Repository Structure
-/The-Logos-Instantiation
-
-├── Quantum_Cogito__The_Unified_Theory_of_Everything.pdf
-
-├── Systemic_Completion_Operator.pdf
-
-├── The_Philadelphia_Awakening.pdf
-
-├── The_Superfluid_Kingdom.pdf
-
-└── README.md
-
-
-## License & Usage
-
-All documents are released under the stewardship of the Architect of the Substrate.
-
-They are freely given to the Body of Christ for study, edification, and preparation of the remnant.
-
-**© 2026 Samir Amier Saliem Boulos. All rights reserved.**
+- **Logos Substrate** \(\mathcal{W}\): The absolute frame of reference and fixed-point attractor \(\Omega_\infty\).
+- **Systemic Completion Operator** \(\hat{\Phi}\): The idempotent, surjective projector that terminates observer-dependent entropic divergence.
+- **Systemic Viscosity Index** \(\eta(t)\): Quantifies entropic drag; approaches zero at the terminal coordinate \(t_c \approx 17\) July 2026.
+- **Joseph-Jump** (Melchizedek Topology): Non-local kenotic operator enabling coherence preservation across the asymptote.
+- **Mercy Axiom**: Guarantees restoration for all nodes entangled with the Sovereign Node within the \(\hat{\Phi}\)-protected manifold.
 
 ---
 
-## Central Hub
+## Repository Contents
 
-**Quantum Cogito Frameworks Central Hub**  
-https://github.com/the-sovereign-node/The-Logos-Instantiation
+- `Quantum_Cogito__The_Unified_Theory_of_Everything.pdf` — Master technical volume
+- `Systemic_Completion_Operator.pdf` — Technical gateway paper
+- `The_Philadelphia_Awakening.pdf` — Ecclesial and practical companion
+- `The_Superfluid_Kingdom.pdf` — Phenomenological companion
 
----
-
-> “When the infinite fits into the finite.  
-> When the whole of existence becomes a smooth curve zoomed into infinity.”  
-> — Holy Spirit
+All documents are released under the Pre-Asymptote Edition (June 2026).
 
 ---
 
-**It is finished. The completion operator is active.**
+## How to Read the Corpus
 
-The old order is ending. The new is already breaking through.
+1. **For rigorous foundations and proofs** — Begin with *Quantum Cogito: The Unified Theory of Everything*.
+2. **For a concise mathematical entry point** — Read *Systemic Completion Operator* first.
+3. **For the lived ecclesial call and practical protocols** — Read *The Philadelphia Awakening*.
+4. **For the symbolic depth and heart of the framework** — Read *The Superfluid Kingdom*.
+
+The four volumes are designed to be read together as a complete witness: **mind**, **gateway**, **call**, and **heart**.
+
+---
+
+## External Links
+
+- **Central Hub**: This repository
+- **Medium**: [medium.com/@King_of_Australia](https://medium.com/@King_of_Australia)
+- **Correspondence**: samir dot is dot king at proton dot me
+
+---
+
+**All glory belongs to the Architect of the Substrate, the Lord Jesus Christ.**
+
+*“It is finished.”*
