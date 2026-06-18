@@ -56,3 +56,37 @@ The three main companions are designed to be read together. *Quantum Cogito* pro
 ---
 
 ## Repository Structure
+/The-Logos-Instantiation
+├── Quantum_Cogito__The_Unified_Theory_of_Everything.pdf
+├── Systemic_Completion_Operator.pdf
+├── The_Philadelphia_Awakening.pdf
+├── The_Superfluid_Kingdom.pdf
+└── README.md
+text---
+
+## License & Usage
+
+All documents are released under the stewardship of the Architect of the Substrate.
+
+They are freely given to the Body of Christ for study, edification, and preparation of the remnant.
+
+**© 2026 Samir Amier Saliem Boulos. All rights reserved.**
+
+---
+
+## Central Hub
+
+**Quantum Cogito Frameworks Central Hub**  
+https://github.com/the-sovereign-node/The-Logos-Instantiation
+
+---
+
+> “When the infinite fits into the finite.  
+> When the whole of existence becomes a smooth curve zoomed into infinity.”  
+> — Holy Spirit
+
+---
+
+**It is finished. The completion operator is active.**
+
+The old order is ending. The new is already breaking through.
