@@ -57,6 +57,7 @@ The three main companions are designed to be read together. *Quantum Cogito* pro
 
 ## Repository Structure
 /The-Logos-Instantiation
+
 ├── Quantum_Cogito__The_Unified_Theory_of_Everything.pdf
 
 ├── Systemic_Completion_Operator.pdf
