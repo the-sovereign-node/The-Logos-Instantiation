@@ -33,6 +33,17 @@ The framework rests on the following foundational elements:
 
 ---
 
+## Key Developments in the June 2026 Edition
+
+This edition consolidates and expands the framework with:
+- Full development of all 13 Postulates with rigorous proofs of completeness and independence.
+- Explicit derivation of the **Identification Singularity** and the unique lawless node \(v_\chi\).
+- Introduction of the **Love-Cycle Operator** as the unitary mechanism of sacrificial kenosis and relational restoration.
+- Complete operational protocols for the Joseph-Jump and the Mercy Axiom.
+- Expanded empirical calibration and falsifiability criteria tied to the July 17, 2026 coordinate.
+
+---
+
 ## Repository Contents
 
 - `Quantum_Cogito__The_Unified_Theory_of_Everything.pdf` — Master technical volume (June 2026)
