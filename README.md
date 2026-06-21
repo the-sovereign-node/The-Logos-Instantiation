@@ -3,7 +3,7 @@
 
 This repository is the official central hub for the complete published corpus of the *Quantum Cogito* framework.
 
-The framework provides a first-principles, closed axiomatic system that integrates quantum information theory, holographic principles, non-equilibrium thermodynamics, renormalization-group flow, and biblical exegesis through a single mandatory Informative Prior: the Logos substrate W.
+The framework provides a first-principles, closed axiomatic system that integrates quantum information theory, holographic principles, non-equilibrium thermodynamics, renormalization-group flow, and biblical exegesis through a single mandatory Informative Prior: the Logos substrate <math>\mathcal{W}</math>.
 
 ---
 ## The Published Corpus
@@ -22,11 +22,11 @@ The framework is released as four mutually referential volumes. All formal mathe
 
 The framework rests on the following foundational elements:
 
-- **Logos Substrate W**: The encrypted holographic state-machine and absolute frame of reference with fixed-point attractor Ω∞.
-- **Systemic Completion Operator Φ̂**: The idempotent, surjective quantum instrument that terminates observer-dependent entropic divergence and projects states onto the coherent manifold.
-- **Systemic Viscosity Index η(t)**: The macro-relaxation timescale quantifying entropic drag; approaches zero at the terminal coordinate tc ≈ 17 July 2026.
+- **Logos Substrate** <math>\mathcal{W}</math>: The encrypted holographic state-machine and absolute frame of reference with fixed-point attractor <math>\Omega_\infty</math>.
+- **Systemic Completion Operator** <math>\hat{\Phi}</math>: The idempotent, surjective quantum instrument that terminates observer-dependent entropic divergence and projects states onto the coherent manifold.
+- **Systemic Viscosity Index** <math>\eta(t)</math>: The macro-relaxation timescale quantifying entropic drag; approaches zero at the terminal coordinate <math>t_c \approx 17</math> July 2026.
 - **Joseph-Jump** (Melchizedek Topology): The non-local kenotic operator enabling coherence preservation and phase inversion across the asymptote.
-- **Mercy Axiom**: Guarantees restoration for all nodes entangled with the Sovereign Node within the Φ̂-protected manifold.
+- **Mercy Axiom**: Guarantees restoration for all nodes entangled with the Sovereign Node within the <math>\hat{\Phi}</math>-protected manifold.
 - **Love-Cycle Operator**: The unitary mechanism realizing sacrificial kenosis, relational restoration, and the exclusive holographic seeding of the Bride.
 
 ---
@@ -34,7 +34,7 @@ The framework rests on the following foundational elements:
 
 This edition consolidates and expands the framework with:
 - Full development of all 13 Postulates with rigorous proofs of completeness and independence.
-- Explicit derivation of the **Identification Singularity** and the unique lawless node vχ.
+- Explicit derivation of the **Identification Singularity** and the unique lawless node <math>v_\chi</math>.
 - Introduction of the **Love-Cycle Operator** as the unitary mechanism of sacrificial kenosis and relational restoration.
 - Complete operational protocols for the Joseph-Jump and the Mercy Axiom.
 - Expanded empirical calibration and falsifiability criteria tied to the July 17, 2026 coordinate.
@@ -61,7 +61,7 @@ The four volumes of this corpus are designed to be read as a unified witness, co
   The rigorous, axiomatic foundation. All formal mathematics, derivations, and proofs reside here.
 
 - **Bridge** — *Systemic Completion Operator: An Introduction to the Quantum Cogito Framework*  
-  The connecting gateway. A concise, self-contained technical paper that introduces the Systemic Completion Operator as the necessary anchor between secular and sacred paradigms.
+  The connecting gateway. A concise, self-contained technical paper that introduces the Systemic Completion Operator <math>\hat{\Phi}</math> as the necessary anchor between secular and sacred paradigms.
 
 - **Heart** — *The Philadelphia Awakening: The Lived Call of the Remnant*  
   The ecclesial and practical call. Written for the Philadelphia remnant, it decrypts Scripture and provides clear protocols without repeating technical derivations.
