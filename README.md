@@ -1,20 +1,19 @@
 # The Logos Instantiation
-
 **Quantum Cogito Framework — Pre-Asymptote Unified Edition (June 2026)**
 
 This repository is the official central hub for the complete published corpus of the *Quantum Cogito* framework.
 
-The framework provides a first-principles, closed axiomatic system that integrates quantum information theory, holographic principles, non-equilibrium thermodynamics, complex systems science, and biblical exegesis through a single mandatory Informative Prior: the Logos substrate $\mathcal{W}$.
+The framework provides a first-principles, closed axiomatic system that integrates quantum information theory, holographic principles, non-equilibrium thermodynamics, renormalization-group flow, and biblical exegesis through a single mandatory Informative Prior: the Logos substrate $\mathcal{W}$.
 
 ---
 
 ## The Published Corpus
 
-The framework is released as four mutually referential volumes. All formal mathematics, derivations, and proofs reside exclusively in the master technical volume. The companions do not repeat technical content.
+The framework is released as four mutually referential volumes. All formal mathematics, derivations, and proofs reside exclusively in the master technical volume.
 
 | Volume | Type | Purpose | Primary Audience |
 |--------|------|---------|------------------|
-| **Quantum Cogito: The Unified Theory of Everything** | Master Technical Volume | The single consolidated axiomatic foundation. Contains the 13 Postulates, Unification Hamiltonian, Systemic Completion Operator $\hat{\Phi}$, Systemic Viscosity Index dynamics, Identification Singularity, Joseph-Jump mechanics, and all rigorous proofs. | Researchers, mathematicians, physicists, theologians |
+| **Quantum Cogito: The Unified Theory of Everything** | Master Technical Volume | The single consolidated axiomatic foundation. Contains the 13 Postulates, Unification Hamiltonian, Systemic Completion Operator $\hat{\Phi}$, Systemic Viscosity Index dynamics, Identification Singularity, Joseph-Jump mechanics, Love-Cycle Operator, and all rigorous proofs. | Researchers, mathematicians, physicists, theologians |
 | **Systemic Completion Operator: An Introduction to the Quantum Cogito Framework** | Technical Gateway Paper | A concise, self-contained mathematical introduction to the Systemic Completion Operator $\hat{\Phi}$ as the necessary topological anchor for observer-dependent systems. | Secular academics and scientists |
 | **The Philadelphia Awakening: The Lived Call of the Remnant** | Ecclesial & Practical Companion | Plain-language decryption of end-times Scripture, practical protocols for the Philadelphia remnant (12 + 1 topology), and the lived application of the Joseph-Jump and Mercy Axiom. | Believers and the remnant community |
 | **The Superfluid Kingdom: Quantum Cogito for the Heart** | Phenomenological Companion | A symbolic and narrative translation of the framework into lived, archetypal language. Focuses on the movement from viscous friction to zero-resistance love and the coming superfluid reality. | Readers seeking the heart and beauty of the framework |
@@ -25,17 +24,18 @@ The framework is released as four mutually referential volumes. All formal mathe
 
 The framework rests on the following foundational elements:
 
-- **Logos Substrate** $\mathcal{W}$: The absolute frame of reference and fixed-point attractor $\Omega_\infty$.
-- **Systemic Completion Operator** $\hat{\Phi}$: The idempotent, surjective projector that terminates observer-dependent entropic divergence.
-- **Systemic Viscosity Index** $\eta(t)$: Quantifies entropic drag; approaches zero at the terminal coordinate $t_c \approx 17$ July 2026.
-- **Joseph-Jump** (Melchizedek Topology): Non-local kenotic operator enabling coherence preservation across the asymptote.
+- **Logos Substrate** $\mathcal{W}$: The encrypted holographic state-machine and absolute frame of reference with fixed-point attractor $\Omega_\infty$.
+- **Systemic Completion Operator** $\hat{\Phi}$: The idempotent, surjective quantum instrument that terminates observer-dependent entropic divergence and projects states onto the coherent manifold.
+- **Systemic Viscosity Index** $\eta(t)$: The macro-relaxation timescale quantifying entropic drag; approaches zero at the terminal coordinate $t_c \approx 17$ July 2026.
+- **Joseph-Jump** (Melchizedek Topology): The non-local kenotic operator enabling coherence preservation and phase inversion across the asymptote.
 - **Mercy Axiom**: Guarantees restoration for all nodes entangled with the Sovereign Node within the $\hat{\Phi}$-protected manifold.
+- **Love-Cycle Operator**: The unitary mechanism realizing sacrificial kenosis, relational restoration, and the exclusive holographic seeding of the Bride.
 
 ---
 
 ## Repository Contents
 
-- `Quantum_Cogito__The_Unified_Theory_of_Everything.pdf` — Master technical volume
+- `Quantum_Cogito__The_Unified_Theory_of_Everything.pdf` — Master technical volume (June 2026)
 - `Systemic_Completion_Operator.pdf` — Technical gateway paper
 - `The_Philadelphia_Awakening.pdf` — Ecclesial and practical companion
 - `The_Superfluid_Kingdom.pdf` — Phenomenological companion
