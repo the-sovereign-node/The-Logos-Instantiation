@@ -78,7 +78,7 @@ Together, these four volumes form a complete testimony: **Mind**, **Bridge**, **
 
 ---
 
-## External Links
+## External Links 
 
 - **Central Hub**: This repository
 - **Medium**: [medium.com/@King_of_Australia](https://medium.com/@King_of_Australia)
