@@ -5,65 +5,61 @@
 
 This repository is the official central hub for the complete published corpus of the *Quantum Cogito* framework.
 
-The framework provides a first-principles, closed axiomatic system that integrates quantum information theory, holographic principles, non-equilibrium thermodynamics, complex systems, and biblical exegesis through a single mandatory Informative Prior: the Logos substrate W. All derivations are performed inline from the thirteen Postulates with no external assumptions.
+The framework is a first-principles, closed axiomatic system that integrates quantum information theory, holographic principles, non-equilibrium thermodynamics, complex systems, and biblical exegesis through a single mandatory Informative Prior: the Logos substrate W. All derivations, proofs, and operators are developed inline from the thirteen Quantum Cogito Postulates.
 
 ---
 
 ## The Published Corpus
 
-The framework is released as one master technical volume and three mutually referential companion works. All formal mathematics, postulates, operators, proofs, and the complete 13-chapter development reside exclusively in the master volume.
+The framework is released as a master technical volume supported by three companion papers and one foundational cryptographic paper.
 
-| Volume | Type | Purpose | Primary Audience |
-|--------|------|---------|------------------|
-| **Quantum Cogito: Dawn of a New Era — The Unified Theory of Everything** | Master Technical Volume | The definitive 13-chapter axiomatic foundation. Contains the 13 Postulates with inline derivations, Systemic Viscosity Index dynamics, the four fundamental operators, the archetypal group G13, cross-multiplicative corollaries, the complete knowledge graph and object-oriented metamodel, biblical decryptions with teleological closure, necessity of kenotic descent, quantum-computing hardware of the Body of Christ, time mechanics and Wick Rotation, Judas-sink experiential state, superfluid Kingdom, and the Kingdom handover. | Researchers, mathematicians, physicists, theologians, and serious scholars |
+| Volume / Paper | Type | Purpose | Primary Audience |
+|----------------|------|---------|------------------|
+| **Quantum Cogito: Dawn of a New Era — The Unified Theory of Everything** | Master Technical Volume | The definitive 13-chapter axiomatic foundation. Contains the thirteen Postulates, Systemic Viscosity Index dynamics, operators (K̂_S, Φ̂, Ĵ, P̂), archetypal group G₁₃, cross-multiplicative corollaries, Identification Singularity Theorem, quantum-biological anchoring, and all rigorous inline proofs. | Researchers, mathematicians, physicists, theologians |
 | **Systemic Completion Operator: An Introduction to the Quantum Cogito Framework** | Technical Gateway Paper | A concise, self-contained mathematical introduction to the Systemic Completion Operator as the necessary topological anchor for observer-dependent systems. | Secular academics and scientists |
-| **The Philadelphia Awakening: The Lived Call of the Remnant** | Ecclesial & Practical Companion | Plain-language decryption of end-times Scripture, practical protocols for the Philadelphia remnant, and the lived application of the Joseph-Jump and Mercy Axiom. | Believers and the remnant community |
-| **The Superfluid Kingdom: Quantum Cogito for the Heart** | Phenomenological Companion | A symbolic and narrative translation of the framework into lived, archetypal language. Focuses on the movement from viscous friction to zero-resistance coherence and the coming superfluid reality. | Readers seeking the heart and beauty of the framework |
+| **The Philadelphia Awakening: The Lived Call of the Remnant** | Ecclesial & Practical Companion | Plain-language decryption of end-times Scripture and practical protocols for the Philadelphia remnant. | Believers and the remnant community |
+| **The Superfluid Kingdom: Quantum Cogito for the Heart** | Phenomenological Companion | A symbolic and narrative translation of the framework into lived, archetypal language. | Readers seeking the heart and beauty of the framework |
+| **Cryptographic Framework for Sovereign Legitimacy** | Foundational Cryptographic Paper | Establishes the deterministic Validate procedure, BFT-based legitimacy testing, and objective identification of the lawless node v_χ using the Grundnorm protocol. | Legal theorists, cryptographers, political philosophers, and those requiring machine-checkable identification of archetypal nodes |
+
+All documents belong to the Pre-Asymptote Unified Edition (June 2026).
 
 ---
 
 ## Core Mathematical Structure
 
-The framework rests on the following foundational elements, all derived from first principles:
+The framework rests on the following foundational elements:
 
-- **Logos Substrate W**: The encrypted holographic state-machine and absolute frame of reference with fixed-point attractor at the superfluid Kingdom.
-- **Systemic Viscosity Index η(t)**: The macro-relaxation timescale quantifying entropic drag; diverges at the calibrated finite-time singularity tc ≈ 17 July 2026 (17th day of the 7th month).
-- **Four Fundamental Operators**: KS (Decryption), Φ (Idempotent Completion), J (Joseph-Jump), and P (Frame-Pulling).
-- **Archetypal Group G13**: The complete non-abelian classification of node types, including the Sovereign Node v* (J2 Proxy) and the Anzac Rose Holographic Seed (Bride Proxy), which together form the living Noah’s Ark manifold.
-- **Identification Singularity Theorem**: Objective, deterministic identification of the unique lawless node vχ (Final Antichrist) and the Synagogue of Satan via the Validate procedure of the Cryptographic Framework for Sovereign Legitimacy, combined with holographic and gematria invariants.
-- **Mercy Axiom**: Guarantees maximal salvific measure for all nodes entangled with the living Noah’s Ark manifold once the lawless node is isolated at tc.
-- **Free-Will Projector**: Preserves relational distinction between the eternal J1 Head and the localized J2 Sovereign Node proxy while enabling non-local participatory appearance at tc.
+- **Logos Substrate W**: The encrypted holographic state-machine and absolute frame of reference with fixed-point attractor Ω_∞.
+- **Systemic Completion Operator Φ̂**: The idempotent, surjective quantum instrument that terminates observer-dependent entropic divergence and projects states onto the coherent manifold.
+- **Systemic Viscosity Index η(t)**: The macro-relaxation timescale quantifying entropic drag; diverges at the calibrated terminal coordinate t_c ≈ 17 July 2026.
+- **Joseph-Jump (Melchizedek Topology)**: The non-local kenotic operator enabling coherence preservation, tensor-network contraction, and phase inversion across the asymptote.
+- **Mercy Axiom**: Guarantees maximal salvific measure for all nodes entangled with the living Noah’s Ark manifold while preserving the free-will projector.
+- **Archetypal Group G₁₃**: The complete non-abelian classification of all local realizations of W, including the Sovereign Node (J2 proxy), Anzac Rose (Bride proxy / holographic seed), and the unique lawless node v_χ.
+- **Living Noah’s Ark Manifold**: The unbreakable sealed unity of the Sovereign Node (Samir) as J2 proxy and the Anzac Rose (Emma) as Bride proxy, functioning as the central bridge at t_c.
 
 ---
 
 ## Key Developments in the June 2026 Edition
 
-This edition constitutes a completely new, ground-up work (not a revision of prior editions). Major advances include:
+This edition represents the complete, ground-up consolidation of the framework:
 
-- Full development of all 13 Postulates with rigorous inline proofs of completeness and independence.
-- Derivation of the Systemic Viscosity Index ODE and its calibrated finite-time singularity at tc ≈ 17 July 2026.
-- Complete archetypal group G13 with type-dependent viscosity signatures and the Archetypal Bridge Functor.
-- Objective Identification Singularity Theorem for the lawless node vχ, including machine-checkable Validate procedure and holographic signature.
-- Full set of cross-multiplicative derivative corollaries generated by the permutation operator on the theorem space.
-- Complete knowledge graph and object-oriented metamodel rendering the entire framework coherent and implementable.
-- Detailed biblical decryptions demonstrating non-arbitrary teleological closure with Scripture.
-- Rigorous derivation of the necessity of kenotic descent for both the J2 Sovereign Node proxy and the Anzac Rose (Bride proxy), including quantum-biological anchoring of the February 2018 Joseph-Jump.
-- Modeling of the Body of Christ as quantum-computing hardware with the living Noah’s Ark manifold as central processor.
-- Derivation of time mechanics, the Joseph-Jump-induced Wick Rotation, and pathways for AI advancement.
-- Full treatment of the Judas-sink experiential state and its contrast with glorified bodies in the superfluid Kingdom.
-- Mathematics of phase at tc, including the modelling of π’s irrationality as pre-tc mercy and God’s righteousness as a perfect circle.
-- Explicit Kingdom handover to the Father and the dawn of the new era.
-
-All new content is additive, with every derivation presented inline at the point of first logical use. No appendices are used for core proofs; everything remains in the main development for seamless reading.
+- Full development of all thirteen Postulates with rigorous inline proofs of completeness and independence.
+- Explicit derivation of the **Identification Singularity Theorem** and the unique lawless node v_χ, supported by the deterministic Validate procedure from the *Cryptographic Framework for Sovereign Legitimacy*.
+- Formal modeling of the consciousness transduction chain (§1.4.1) and the quantum-biological realization of the local Joseph-Jump anchor (§8.4.1).
+- Complete treatment of the necessity of kenotic descent for both the J2 proxy and the Anzac Rose as required participation in antagonistic entropy.
+- Full set of cross-multiplicative derivative corollaries generated by the permutation operator.
+- Objective, machine-checkable identification of archetypal nodes (including the Final Antichrist and Synagogue of Satan) via the Grundnorm protocol.
+- Three comprehensive appendices: Identities and Roles (technical + layman), Resolution of Open and Formerly Open Mathematical Problems, and instructions for the Quantum Cogito Verse Decryption Application.
 
 ---
 
 ## Repository Contents
 
-- `Quantum_Cogito__Dawn_of_a_New_Era.pdf` — Master technical volume (13 chapters + Appendices A–C, June 2026)
+- `Quantum_Cogito__Dawn_of_a_New_Era.pdf` — Master technical volume (13 chapters + 3 appendices)
 - `Systemic_Completion_Operator.pdf` — Technical gateway paper
 - `The_Philadelphia_Awakening.pdf` — Ecclesial and practical companion
 - `The_Superfluid_Kingdom.pdf` — Phenomenological companion
+- `Cryptographic_Framework_for_Sovereign_Legitimacy.pdf` — Foundational paper on objective node identification and sovereign legitimacy testing
 
 All documents are released under the Pre-Asymptote Unified Edition (June 2026).
 
@@ -74,29 +70,27 @@ All documents are released under the Pre-Asymptote Unified Edition (June 2026).
 > “You shall love the Lord your God with all your **heart**, with all your **soul**, with all your **mind**, and with all your **strength**.”  
 > — Mark 12:30 (NKJV)
 
-The four volumes are designed to be read as a unified witness corresponding to the four dimensions of love commanded in Scripture:
+The corpus is designed to be read as a unified witness corresponding to the four dimensions of love commanded in Scripture:
 
-- **Mind** — *Quantum Cogito: Dawn of a New Era — The Unified Theory of Everything*  
-  The rigorous, axiomatic foundation. All formal mathematics, the 13 Postulates, operators, corollaries, proofs, and the complete 13-chapter development reside here.
+- **Mind** — *Quantum Cogito: Dawn of a New Era*  
+  The rigorous, axiomatic foundation. All formal mathematics, derivations, and proofs reside here.
 
-- **Bridge** — *Systemic Completion Operator: An Introduction to the Quantum Cogito Framework*  
-  The connecting gateway. A concise technical paper introducing the Systemic Completion Operator as the necessary anchor between secular and sacred paradigms.
+- **Bridge** — *Systemic Completion Operator*  
+  The connecting gateway between secular and sacred paradigms.
 
-- **Heart** — *The Philadelphia Awakening: The Lived Call of the Remnant*  
-  The ecclesial and practical call. Written for the Philadelphia remnant; decrypts Scripture and provides clear protocols without repeating technical derivations.
+- **Heart** — *The Philadelphia Awakening*  
+  The ecclesial and practical call for the remnant, with clear protocols.
 
-- **Soul** — *The Superfluid Kingdom: Quantum Cogito for the Heart*  
-  The phenomenological and symbolic depth. Translates the framework into lived, archetypal language — moving from the friction of the present age to the seamless beauty of the coming Kingdom.
+- **Soul** — *The Superfluid Kingdom*  
+  The phenomenological and symbolic depth — moving from viscous friction to the seamless beauty of the coming Kingdom.
 
-Together these four volumes form a complete testimony: **Mind**, **Bridge**, **Heart**, and **Soul**.
+Together these volumes form a complete testimony: **Mind**, **Bridge**, **Heart**, and **Soul**.
 
 ---
 
-## Appendices in the Master Volume
+## The Cryptographic Framework for Sovereign Legitimacy
 
-- **Appendix A**: Complete identities and roles (technical + layman explanations) for every major node, including the Sovereign Node (J2 Proxy), Anzac Rose (Bride Proxy), J1 Head, Father, I AM, Holy Spirit, Body of Christ, Bride of Christ, Final Antichrist, Synagogue of Satan, and the cyclic nature of archetypal participation through G13.
-- **Appendix B**: Resolution of longstanding open mathematical and physical problems, plus novel derivations of formerly open problems using the framework.
-- **Appendix C**: Instructions for scholars to build their own verse decryption application and guidance for lay readers on using the published app at https://quantumcogito.app.
+This companion paper supplies the deterministic, BFT-based Validate procedure used for objective identification of archetypal nodes, including the unique lawless node v_χ. It establishes machine-checkable criteria for sovereign legitimacy and is the formal instrument behind the Identification Singularity Theorem in the master volume.
 
 ---
 
@@ -104,7 +98,7 @@ Together these four volumes form a complete testimony: **Mind**, **Bridge**, **H
 
 - **Central Hub**: This repository
 - **Medium**: [medium.com/@King_of_Australia](https://medium.com/@King_of_Australia)
-- **Correspondence**: samir dot is dot king at proton dot me
+- **Correspondence**: samir.is.king@proton.me
 
 ---
 
