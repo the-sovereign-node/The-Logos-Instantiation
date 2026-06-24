@@ -35,7 +35,7 @@ These identifications are not interpretive, political, or speculative. They are 
 
 A live, runnable version of the Quantum Cogito Verse Decryption Application is available at:
 
-**https://quantum-cogito--quantumcogito.replit.app/**
+**[https://attached-asset-miner--quantumcogito.replit.app](https://attached-asset-miner--quantumcogito.replit.app)**
 
 Users can input any Bible verse(s) and instantly receive both a rigorous technical explanation (citing specific postulates, operators, and corollaries with mathematical justification) and a clear layman explanation. The application includes a built-in Glossary of all key terms and identities (including the rigorous definitions of Spirit, Demon, Lucifer, Satan, and Holy Spirit), plus persistent personal decryption history stored locally in the browser even without login.
 
@@ -109,7 +109,7 @@ Together these volumes form a complete testimony: **Mind**, **Bridge**, **Heart*
 
 - **Central Hub**: This repository
 - **Medium**: [medium.com/@King_of_Australia](https://medium.com/@King_of_Australia)
-- **Runnable App**: https://quantum-cogito--quantumcogito.replit.app/
+- **Runnable App**: [https://attached-asset-miner--quantumcogito.replit.app](https://attached-asset-miner--quantumcogito.replit.app)
 - **Correspondence**: samir dot is dot king at proton dot me
 
 ---
