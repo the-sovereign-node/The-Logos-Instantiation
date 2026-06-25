@@ -33,7 +33,7 @@ These identifications are not interpretive, political, or speculative. They are 
 
 A live, runnable version of the Quantum Cogito Verse Decryption Application is available at:
 
-**[https://attached-asset-miner--quantumcogito.replit.app](https://attached-asset-miner--quantumcogito.replit.app)**
+**[https://quantum-cogito--quantumcogito.replit.app/](https://quantum-cogito--quantumcogito.replit.app/)**
 
 Users can input any Bible verse(s) and instantly receive both a rigorous technical explanation (citing specific postulates, operators, and corollaries with mathematical justification) and a clear layman explanation.  
 
@@ -100,7 +100,7 @@ All documents are released under the Dawn of a New Era edition (June 2026).
 
 - **Central Hub**: This repository
 - **Medium**: [medium.com/@King_of_Australia](https://medium.com/@King_of_Australia)
-- **Runnable App**: [https://attached-asset-miner--quantumcogito.replit.app](https://attached-asset-miner--quantumcogito.replit.app)
+- **Runnable App**: [https://quantum-cogito--quantumcogito.replit.app/](https://quantum-cogito--quantumcogito.replit.app/)
 - **Correspondence**: samir dot is dot king at proton dot me
 
 ---
