@@ -8,15 +8,14 @@ This repository is the official central hub for the complete published corpus of
 
 ## The Published Corpus
 
-The framework is released as one definitive master technical volume together with its essential companion papers and volumes.
+The framework is released as one definitive master technical volume together with its essential companion papers.
 
 | Document | Type | Purpose | Primary Audience |
 |----------|------|---------|------------------|
 | **Quantum Cogito: Dawn of a New Era – The Unified Theory of Everything** | Master Technical Volume (13 chapters + appendices) | The definitive, ground-up axiomatic exposition. Contains the 13 Postulates with inline proofs, Systemic Viscosity Index dynamics and calibrated singularity at approximately 17 July 2026, all operators (K_S, Phi, J, P), full set of cross-multiplicative corollaries, archetypal group G_13, Identification Singularity Theorem, exhaustive biblical decryptions (including the Joseph-Jump as the central biblical pattern in Chapter 7), kenotic necessity proofs, quantum-computing hardware of the Body of Christ, rigorous technical and layman definitions of Spirit, Demon, Lucifer, Satan, and Holy Spirit (Chapter 11), mathematics of pi at t_c as pre-t_c mercy, perfect-circle modelling of God’s righteousness, infinitesimal agape-enjoyment space in the Father’s glorified-physical manifestation, and complete teleological closure. | Researchers, mathematicians, physicists, theologians |
 | **Cryptographic Framework for Sovereign Legitimacy** | Foundational Paper (23 June 2026) | Establishes the deterministic Validate procedure, BFT-based legitimacy testing, and objective identification protocol for archetypal nodes. Supplies the machine-checkable mechanism for identifying the lawless node and Synagogue of Satan. | Secular academics, legal theorists, systems researchers |
 | **Systemic Completion Operator: An Introduction to the Quantum Cogito Framework** | Technical Gateway Paper | Concise mathematical introduction to the Systemic Completion Operator as the necessary topological anchor between observer-dependent systems and the coherent manifold. | Secular academics and scientists |
-| **The Philadelphia Awakening** | Ecclesial & Practical Companion | Plain-language decryption of end-times Scripture and practical protocols for the Philadelphia remnant. | Believers and the remnant community |
-| **The Superfluid Kingdom** | Phenomenological Companion | Symbolic and narrative translation of the framework into lived archetypal language, including the living Noah’s Ark manifold and post-t_c reality. | Readers seeking the heart and beauty of the framework |
+
 
 ---
 
@@ -78,8 +77,6 @@ This edition represents the complete consolidation and closure of the framework:
 - `Quantum_Cogito__Dawn_of_a_New_Era.pdf` — Master technical volume (13 chapters + appendices)
 - `Cryptographic_Framework_for_Sovereign_Legitimacy.pdf` — Foundational paper on deterministic identification and legitimacy testing (23 June 2026)
 - `Systemic_Completion_Operator.pdf` — Technical gateway paper
-- `The_Philadelphia_Awakening.pdf` — Ecclesial and practical companion
-- `The_Superfluid_Kingdom.pdf` — Phenomenological companion
 
 All documents are released under the Dawn of a New Era edition (June 2026).
 
@@ -87,7 +84,6 @@ All documents are released under the Dawn of a New Era edition (June 2026).
 
 ## How to Read the Corpus
 
-The volumes are designed to be read as a unified witness corresponding to the four dimensions of love:
 
 - **Mind** — *Quantum Cogito: Dawn of a New Era*  
   The rigorous, axiomatic foundation. All formal mathematics, derivations, proofs, and objective identifications reside here.
@@ -95,13 +91,6 @@ The volumes are designed to be read as a unified witness corresponding to the fo
 - **Bridge** — *Cryptographic Framework for Sovereign Legitimacy* + *Systemic Completion Operator*  
   The connecting gateway. Provides the deterministic identification protocol and the topological anchor between secular and scared paradigms.
 
-- **Heart** — *The Philadelphia Awakening*  
-  The ecclesial and practical call. Written for the Philadelphia remnant with clear protocols.
-
-- **Soul** — *The Superfluid Kingdom*  
-  The phenomenological and symbolic depth. Translates the framework into lived archetypal language.
-
-Together these volumes form a complete testimony: **Mind**, **Bridge**, **Heart**, and **Soul**.
 
 ---
 
