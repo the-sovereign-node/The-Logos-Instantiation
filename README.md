@@ -1,7 +1,24 @@
 # The Logos Instantiation
-**Quantum Cogito Framework — Dawn of a New Era (July 2026)**
 
-This repository is the official central hub for the complete published corpus of the *Quantum Cogito* framework. The framework provides a first-principles, closed axiomatic system that integrates quantum information theory, holographic principles, non-equilibrium thermodynamics, renormalization-group flow, and biblical exegesis through a single mandatory Informative Prior: the Logos substrate.
+**Quantum Cogito Framework — Classical Mathematical Results & Axiomatic Foundations**
+
+This repository is the official central hub for the *Quantum Cogito* framework and its published corpus. The framework is a first-principles, closed axiomatic system that integrates quantum information theory, holographic principles, and non-equilibrium dynamics. A notable feature of the current edition is its demonstrated capacity to generate new classical mathematical results across multiple longstanding problems.
+
+---
+
+## Classical Mathematical Contributions
+
+Appendix B of the master volume presents new classical derivations, attacks, and reductions for seven major problems in mathematics and physics. These results stand independently and can be evaluated on their own terms:
+
+- **Fermat’s Last Theorem** — New classical proof via cyclotomic rings and infinite descent.
+- **Collatz Conjecture** — Classical attack proving almost-sure convergence using an explicit average contraction factor.
+- **Riemann Hypothesis** — Strong classical reduction to a concrete operator-norm bound.
+- **Navier–Stokes Regularity** — New conditional regularity theorem based on a bounded viscosity functional.
+- **Birch and Swinnerton-Dyer Conjecture** — Unconditional partial result for semistable elliptic curves (analytic rank ≤ algebraic rank + 1).
+- **Poincaré Conjecture** — New classical proof using Heegaard splittings and a strictly decreasing complexity function (independent of Ricci flow).
+- **Four Colour Theorem** — New classical proof using a global conflict potential and Kempe-chain arguments.
+
+These results illustrate the generative power of the axiomatic system while remaining fully rigorous as standalone classical mathematics.
 
 ---
 
@@ -9,102 +26,93 @@ This repository is the official central hub for the complete published corpus of
 
 | Document | Type | Purpose | Primary Audience |
 |----------|------|---------|------------------|
-| **Quantum Cogito: Dawn of a New Era – The Unified Theory of Everything** | Master Technical Volume (13 chapters + appendices) | The definitive, ground-up axiomatic exposition containing the 13 Postulates with inline proofs, Systemic Viscosity Index dynamics, calibrated singularity at approximately 17 July 2026, all operators, cross-multiplicative corollaries, archetypal group G₁₃, Identification Singularity Theorem, exhaustive biblical decryptions, and complete teleological closure. | Researchers, mathematicians, physicists, theologians |
-| **Cryptographic Framework for Sovereign Legitimacy** | Foundational Paper (23 June 2026) | Establishes the deterministic Validate procedure, BFT-based legitimacy testing, and objective identification protocol for archetypal nodes. | Secular academics, legal theorists, systems researchers |
-| **Systemic Completion Operator** | Technical Gateway Paper | Concise mathematical introduction to the Systemic Completion Operator as the necessary topological anchor between observer-dependent systems and the coherent manifold. | Secular academics and scientists |
+| **Quantum Cogito: Dawn of a New Era – The Unified Theory of Everything** | Master Technical Volume (13 chapters + appendices) | The complete axiomatic exposition containing the 14 Postulates, Systemic Viscosity Index dynamics, calibrated singularity at approximately 17 July 2026, all operators, archetypal group G13, Identification Singularity Theorem, biblical decryptions, and classical mathematical results in Appendix B. | Researchers, mathematicians, physicists, theologians |
+| **Cryptographic Framework for Sovereign Legitimacy** | Foundational Paper (23 June 2026) | Establishes the deterministic Validate procedure and objective identification protocol for archetypal nodes. | Secular academics, systems researchers |
+| **Systemic Completion Operator** | Technical Gateway Paper | Concise introduction to the Systemic Completion Operator as the necessary mechanism for terminating entropic divergence in observer-dependent systems. | Secular academics and scientists |
+| **This is a Hard Saying** | Plain-Language Companion | Accessible exposition of the core claims for readers approaching the terminal coordinate. | General readers, Bereans |
 
 ---
 
-## Objective Identification of the Lawless Node and the Synagogue of Satan
+## Objective Identifications
 
-Using the deterministic Validate procedure and the Identification Singularity Theorem, the framework establishes the following objective identifications:
+Using the deterministic Validate procedure and the Identification Singularity Theorem, the framework derives the following identifications from public, auditable data:
 
-- **The Synagogue of Satan** (Revelation 2:9; 3:9) is identified as the current **State of Israel** in its present political configuration and alignments.
-- **The Final Antichrist (lawless node vχ)** is identified as **Benjamin Netanyahu**.
+- The **Synagogue of Satan** (Revelation 2:9; 3:9) is identified as the current **State of Israel** in its present political configuration.
+- The **Final Antichrist (lawless node)** is identified as **Benjamin Netanyahu**.
 
-These identifications are derived through the exhaustive, auditable protocol of the Validate procedure cross-referenced with Kolmogorov–Spirit symmetry and gematria invariants.
+These conclusions follow from the exhaustive application of the Validate protocol combined with structural invariants of the framework.
 
 ---
 
 ## Runnable Application
 
-A live, runnable version of the **Quantum Cogito Verse Decryption Application** is available at:
+A live version of the **Quantum Cogito Verse Decryption Application** is available at:
 
 **[https://quantum-cogito.replit.app/](https://quantum-cogito.replit.app/)**
 
-The application uses a hybrid architecture combining static mappings for major verses and concepts rigorously developed in the book with structured runtime generation for verses without direct mappings. It delivers dual-panel output (Technical + Plain English) for any input verse.
+The application returns dual-panel output (Technical + Plain English) for any Bible verse or reference.
 
 ---
 
-## Core Mathematical Structure
+## Core Structural Elements
 
-The framework rests on the following foundational elements:
+The framework is built on the following foundational components:
 
-- **Logos Substrate W**: The encrypted holographic state-machine and fixed-point attractor.
-- **Systemic Completion Operator (Φ̂)**: The idempotent, surjective operator that terminates observer-dependent entropic divergence.
-- **Systemic Viscosity Index η(t)**: The macro-relaxation timescale that diverges at the terminal coordinate tc ≈ 17 July 2026.
-- **Joseph-Jump Operator (Ĵ)**: The non-local kenotic projection that contracts the global tensor network and induces the Wick Rotation.
-- **Mercy Axiom** and **Manifold Mercy Override Corollary**: Guarantee restoration for nodes entangled with the living Noah’s Ark manifold while preserving creaturely freedom.
-- **Archetypal Group G₁₃**: The complete non-abelian classification of all local realizations of W.
-- **Living Noah’s Ark Manifold**: The unbreakable sealed unity of the Sovereign Node (J2 proxy) and the Anzac Rose (Bride proxy).
-- **Born-Again Soul Fusion Operator**: Formal modeling of the 2012 soul-level fusion between the eternal J1 Head and the localized J2 proxy.
-- **Lust-Agapē Synchronization Operator** and **Justice-Mercy Reconciliation Operator**: The dual reconciliations required for global surjectivity of the completion operator at tc.
+- **Logos Substrate W** — The encrypted holographic state-machine and fixed-point attractor.
+- **Systemic Completion Operator (Phi-hat)** — The idempotent operator that completes observer-dependent systems.
+- **Systemic Viscosity Index η(t)** — The macro-relaxation timescale that diverges at the calibrated terminal coordinate tc ≈ 17 July 2026.
+- **Joseph-Jump Operator (J-hat)** — The non-local projection that contracts the global tensor network.
+- **Archetypal Group G13** — The complete non-abelian classification of local realizations of the substrate.
+- **Living Noah’s Ark Manifold** — The sealed unity of the Sovereign Node (J2 proxy) and the Anzac Rose (Bride proxy).
+- **Mercy Axiom and Manifold Mercy Override Corollary** — Structural guarantees of restoration for entangled nodes while preserving freedom.
 
 ---
 
 ## Key Developments in the Current Edition
 
-This edition represents the complete consolidation of the framework, including:
+This edition includes:
 
-- Full development of the **living Noah’s Ark manifold** as the central historical instrument of the completion operator.
-- Rigorous modeling of the **Anzac Rose trajectory** (fragmentation and seed distribution → Queen of Ophir restoration) through the Lust-Agapē Synchronization Operator and the state of holy lust.
-- Detailed treatment of the **Born-Again Soul Fusion Operator** and the controlled residual dread subspace.
-- Objective identification of the **Synagogue of Satan** as the current State of Israel and the **Final Antichrist** as Benjamin Netanyahu via the Identification Singularity Theorem.
-- Complete technical and layman definitions of Spirit, Demon, Lucifer, Satan, and Holy Spirit.
-- Mathematics of **pi at tc** as an expression of pre-tc mercy and the modelling of God’s righteousness as a perfect circle.
-- Strengthened **Final Probabilistic Closure Theorem** integrating the five secular models, lived anchors, and biblical decryptions.
-- Complete **knowledge graph and object-oriented metamodel** (Chapter 6).
+- Full development of the **living Noah’s Ark manifold** as the central instrument of global coherence.
+- Rigorous treatment of the **Anzac Rose trajectory** (fragmentation → restoration) through the Lust-Agapē Synchronization Operator.
+- Complete **Appendix B** containing new classical mathematical results for seven major problems.
+- Strengthened **Final Probabilistic Closure Theorem** integrating lived anchors, secular models, and classical mathematical output.
 - Full integration of the archetypal roles of Amier (Father-proxy) and Amal (Mother-proxy).
-
----
-
-## Companion Plain-Language Work
-
-A new plain-language exposition titled **"This is a Hard Saying"** has been written to accompany the technical volume. It presents the core claims of the framework in accessible language for readers standing at the asymptote, with particular focus on the living Noah’s Ark manifold, the mechanism of global seed distribution, and the decryption of hard scriptural sayings.
+- Objective identification of the Synagogue of Satan and the Final Antichrist via the Identification Singularity Theorem.
 
 ---
 
 ## Repository Contents
 
 - `Quantum_Cogito__Dawn_of_a_New_Era.pdf` — Master technical volume (13 chapters + appendices)
-- `Cryptographic_Framework_for_Sovereign_Legitimacy.pdf` — Foundational paper on deterministic identification (23 June 2026)
+- `Cryptographic_Framework_for_Sovereign_Legitimacy.pdf` — Foundational paper on deterministic identification
 - `Systemic_Completion_Operator.pdf` — Technical gateway paper
-- `This_is_a_Hard_Saying.pdf` — Plain-language companion exposition (July 2026)
+- `This_is_a_Hard_Saying.pdf` — Plain-language companion exposition
 
 ---
 
 ## How to Read the Corpus
 
 - **Mind** — *Quantum Cogito: Dawn of a New Era*  
-  The rigorous, axiomatic foundation. All formal mathematics, derivations, proofs, and objective identifications reside here.
+  The rigorous axiomatic foundation and classical mathematical results.
 
 - **Bridge** — *Cryptographic Framework for Sovereign Legitimacy* + *Systemic Completion Operator*  
-  The connecting gateway between secular and sacred paradigms.
+  The connection between secular and framework paradigms.
 
 - **Heart** — *"This is a Hard Saying"*  
-  A plain-language exposition written for the Berean standing at the terminal coordinate.
+  Accessible exposition for readers standing at the terminal coordinate.
 
 ---
 
 ## External Links
 
-- **Central Hub**: This repository
+- **GitHub Repository**: This page
+- **Full Book (Interactive)**: [https://quantum-cogito-new-era.replit.app](https://quantum-cogito-new-era.replit.app)
 - **Medium**: [medium.com/@King_of_Australia](https://medium.com/@King_of_Australia)
 - **Runnable App**: [https://quantum-cogito.replit.app/](https://quantum-cogito.replit.app/)
 - **Correspondence**: samir dot is dot king at proton dot me
 
 ---
 
-**All glory belongs to the Architect of the Substrate, the Lord Jesus Christ.**
+**All glory belongs to the Lord Jesus Christ.**
 
 *“It is finished.”*
