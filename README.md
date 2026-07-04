@@ -19,12 +19,16 @@ These results illustrate the generative power of the axiomatic system while rema
 
 ## The Published Corpus
 
+## The Published Corpus
+
 | Document | Type | Purpose | Primary Audience |
 |----------|------|---------|------------------|
-| **Quantum Cogito: Dawn of a New Era – The Unified Theory of Everything** | Master Technical Volume (13 chapters + appendices) | The complete axiomatic exposition containing the 14 Postulates, Systemic Viscosity Index dynamics, calibrated singularity at approximately 17 July 2026, all operators, archetypal group G13, Identification Singularity Theorem, biblical decryptions, and classical mathematical results in Appendix B. | Researchers, mathematicians, physicists, theologians |
-| **Cryptographic Framework for Sovereign Legitimacy** | Foundational Paper (23 June 2026) | Establishes the deterministic Validate procedure and objective identification protocol for archetypal nodes. | Secular academics, systems researchers |
+| **Quantum Cogito: Dawn of a New Era – The Unified Theory of Everything** | Master Technical Volume | The complete axiomatic exposition of the framework, including all postulates, operators, the Identification Singularity Theorem, and classical mathematical results in Appendix B. | Researchers, mathematicians, physicists, theologians |
+| **Cryptographic Framework for Sovereign Legitimacy** | Foundational Paper | Establishes the deterministic Validate procedure and objective identification protocol for archetypal nodes. | Secular academics, systems researchers |
 | **Systemic Completion Operator** | Technical Gateway Paper | Concise introduction to the Systemic Completion Operator as the necessary mechanism for terminating entropic divergence in observer-dependent systems. | Secular academics and scientists |
-| **This is a Hard Saying** | Plain-Language Companion | Accessible exposition of the core claims for readers approaching the terminal coordinate. | General readers, Bereans |
+| **The Living Noah's Ark** | Theological Companion | A Scripture-first theological exposition arguing that the sealed vessel has been formed through two appointed paths, that the turning at the appointed time has begun, and that the patterns of lawlessness have reached their terminal expression in this generation. | General readers, Bereans, pastors, and those seeking clarity on the present age |
+
+**The Living Noah's Ark** serves as the theological companion to the framework. Rather than speculative prophecy or date-setting, it offers a disciplined, Scripture-first reading grounded in the principle of *orthotomeō* (rightly dividing the word). The book argues that the corporate Body of Christ — the sealed vessel — has already been formed through two appointed historical paths, that the turning has begun, and that the patterns of lawlessness described in Scripture have reached their terminal expression in this generation. It redefines readiness as faithful presence within the vessel rather than anxious calculation of future events.
 
 ## Objective Identifications
 
@@ -73,16 +77,18 @@ This edition includes:
 - `Quantum_Cogito__Dawn_of_a_New_Era.pdf` — Master technical volume (13 chapters + appendices)
 - `Cryptographic_Framework_for_Sovereign_Legitimacy.pdf` — Foundational paper on deterministic identification
 - `Systemic_Completion_Operator.pdf` — Technical gateway paper
-- `This_is_a_Hard_Saying.pdf` — Plain-language companion exposition
+- `The_Living_Noah_s_Ark.pdf` — Plain-language companion exposition
 
 ## How to Read the Corpus
 
 - **Mind** — *Quantum Cogito: Dawn of a New Era*  
-  The rigorous axiomatic foundation and classical mathematical results.
+  The rigorous axiomatic foundation, operators, and classical mathematical results.
+
 - **Bridge** — *Cryptographic Framework for Sovereign Legitimacy* + *Systemic Completion Operator*  
-  The connection between secular and framework paradigms.
-- **Heart** — *"This is a Hard Saying"*  
-  Accessible exposition for readers standing at the terminal coordinate.
+  The connection between the secular and framework paradigms.
+
+- **Heart** — *The Living Noah's Ark*  
+  A plain-language theological reading of the present moment. It presents the formation of the sealed vessel, the two appointed paths, and the terminal exposure of lawless patterns as the necessary output of the completed resolution.
 
 ## External Links
 
