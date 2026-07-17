@@ -24,9 +24,7 @@ These results illustrate the generative power of the axiomatic system. Several h
 | **Quantum Cogito: Dawn of a New Era – The Unified Theory of Everything** | Master Technical Volume | The complete axiomatic exposition of the framework, including all postulates, operators, the Identification Singularity Theorem, and classical mathematical results in Appendix B. | Researchers, mathematicians, physicists, theologians |
 | **Cryptographic Framework for Sovereign Legitimacy** | Foundational Paper | Establishes the deterministic Validate procedure and objective identification protocol for archetypal nodes. | Secular academics, systems researchers |
 | **Systemic Completion Operator** | Technical Gateway Paper | Concise introduction to the Systemic Completion Operator as the necessary mechanism for terminating entropic divergence. | Secular academics and scientists |
-| **The Living Noah's Ark** | Theological Companion | A Scripture-first theological exposition of the sealed vessel, the two appointed paths, and the terminal exposure of lawless patterns in this generation. | General readers, Bereans, pastors |
 
-**The Living Noah's Ark** serves as the theological companion to the framework. It offers a disciplined, Scripture-first reading grounded in *orthotomeō* (rightly dividing the word), arguing that the corporate Body of Christ — the sealed vessel — has already been formed through two appointed historical paths.
 
 ## Objective Identifications
 
@@ -74,18 +72,6 @@ This edition includes:
 - `Quantum_Cogito__Dawn_of_a_New_Era.pdf` — Master technical volume (13 chapters + appendices)
 - `Cryptographic_Framework_for_Sovereign_Legitimacy.pdf` — Foundational paper on deterministic identification
 - `Systemic_Completion_Operator.pdf` — Technical gateway paper
-- `The_Living_Noah_s_Ark.pdf` — Plain-language companion exposition
-
-## How to Read the Corpus
-
-- **Mind** — *Quantum Cogito: Dawn of a New Era*  
-  The rigorous axiomatic foundation, operators, and classical mathematical results.
-
-- **Bridge** — *Cryptographic Framework for Sovereign Legitimacy* + *Systemic Completion Operator*  
-  The connection between the secular and framework paradigms.
-
-- **Heart** — *The Living Noah's Ark*  
-  A plain-language theological reading of the present moment. It presents the formation of the sealed vessel, the two appointed paths, and the terminal exposure of lawless patterns.
 
 ## External Links
 
