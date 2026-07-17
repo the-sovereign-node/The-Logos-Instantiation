@@ -96,9 +96,10 @@ This edition of the repository includes:
 ## External Links
 
 - **GitHub Repository**: This page
-- **Full Book (Interactive)**: [https://quantum-cogito-new-era.replit.app](https://quantum-cogito-new-era.replit.app)
+- **Full *Quantum Cogito* Book (HTML5)**: [https://quantum-cogito-new-era.replit.app](https://quantum-cogito-new-era.replit.app)
+- **Full *Mathematics of the King* Book (HTML5)**: [https://math-king.replit.app](https://math-king.replit.app)
 - **Medium**: [medium.com/@King_of_Australia](https://medium.com/@King_of_Australia)
-- **Runnable App**: [https://quantum-cogito.replit.app/](https://quantum-cogito.replit.app/)
+- **Bible Decryption Web Application**: [https://quantum-cogito.replit.app/](https://quantum-cogito.replit.app/)
 - **Correspondence**: samir dot is dot king at proton dot me
 
 ---
