@@ -2,9 +2,11 @@
 
 **Quantum Cogito Framework — Authenticated by Mathematics of the King**
 
-This repository is the official central hub for the *Quantum Cogito* framework, *Mathematics of the King*, *Continuation Mathematics*, and their complete published corpus. 
+This repository is the official central hub for the *Quantum Cogito* framework, *Mathematics of the King*, *Continuation Mathematics*, *Mathematics of Semantics*, and their complete published corpus. 
 
 *Continuation Mathematics* was developed to establish a new classical foundation for mathematics where "admissibility" and "continuation" replace classical mathematical objects as the primitive notions. From this single primitive, the entire edifice of classical mathematics (set theory, topology, algebra, geometry, analysis, probability, information theory, category theory, and quantum theory) is recovered as distinct realizations of a single universal continuation architecture. This provides the rigorous, dependency-audited mathematical bedrock upon which the Canonical Investigation Framework is built.
+
+*Mathematics of Semantics* was developed to bridge the precise gap between the abstract syntax of *Continuation Mathematics* and the concrete resolution of open mathematical problems. It formalizes the mathematics of semantic determination, recovering semantic operators, structural balance, canonical quantification, and structural obstruction as intrinsic mathematical objects. This provides a universal, mechanical framework for executing canonical investigation upon any open mathematical problem (such as the Collatz conjecture, Riemann Hypothesis, and Navier-Stokes) without relying on heuristic invariants or probabilistic assumptions.
 
 *Quantum Cogito: Dawn of a New Era* was developed and written as a closed, first-principles axiomatic system integrating quantum information theory, holographic principles, non-equilibrium dynamics, and the Logos substrate. It generates rigorous classical mathematical results (several now established as absolute classical theorems) and derives objective structural identifications from public, auditable data.
 
@@ -31,6 +33,7 @@ These results illustrate the generative power of the axiomatic system. Several h
 | Document | Type | Purpose | Primary Audience |
 |----------|------|---------|------------------|
 | **Continuation Mathematics** | Foundational Volume | Establishes a new classical foundation where "admissibility" and "continuation" replace classical primitives. Recovers set theory, topology, algebra, geometry, analysis, probability, information theory, category theory, and quantum theory as realizations of a single universal continuation architecture. | Secular mathematicians, logicians, foundational researchers |
+| **Mathematics of Semantics** | Foundational Volume | Bridges the gap between the abstract syntax of continuation and the concrete resolution of open mathematical problems. Formalizes semantic operators, structural balance, canonical quantification, and structural obstruction to universally resolve open problems without heuristic assumptions. | Secular mathematicians, logicians, foundational researchers |
 | **Quantum Cogito: Dawn of a New Era – The Unified Theory of Everything** | Master Technical Volume | Complete axiomatic exposition of the framework, including all postulates, operators, the Identification Singularity Theorem, living Noah’s Ark manifold, and classical mathematical results in Appendix B. | Researchers, mathematicians, physicists, theologians |
 | **Mathematics of the King – Volume I: Foundational Architecture** | Foundational Volume | Recovery of generative foundations, methodology of construction, logical dependency, primitive elimination, formal language, and proof theory under the thirteen Articles of the Constitution. | Secular mathematicians, logicians, foundational researchers |
 | **Mathematics of the King – Volume II: Witness Calculus** | Foundational Volume | Construction of the internal language of the Witness, Primitive Relation Algebra, dependency propagation, histories, coherence, admissibility, and canonical realisation. The theory becomes internally self-describing. | Secular mathematicians, logicians, foundational researchers |
@@ -76,6 +79,7 @@ The Constitution recovered in Mathematics of the King governs every construction
 This edition of the repository includes:
 
 - Publication of ***Continuation Mathematics***, establishing a new classical foundation where "admissibility" and "continuation" replace classical mathematical primitives, recovering all major branches of classical mathematics from a single universal architecture.
+- Publication of ***Mathematics of Semantics***, establishing the universal mathematical framework for semantic determination, recovering semantic operators, structural balance, and canonical closure to resolve open mathematical problems (including an absolute classical proof of the Collatz conjecture) without heuristic invariants.
 - Complete five-volume *Mathematics of the King*, providing the secular authentication pathway via independent recovery of the Constitution and the positive Constitutional Verdict on Quantum Cogito.
 - Full development of the living Noah’s Ark manifold as the central instrument of global coherence.
 - Rigorous treatment of the Anzac Rose trajectory (fragmentation → restoration).
@@ -89,6 +93,7 @@ This edition of the repository includes:
 ## Repository Contents
 
 - `Continuation_Mathematics.pdf` — Foundational volume establishing admissibility and continuation as the primitive mathematical notions.
+- `Mathematics_of_Semantics.pdf` — Foundational volume bridging continuation mathematics to the universal resolution of open mathematical problems via semantic determination.
 - `Quantum_Cogito__Dawn_of_a_New_Era.pdf` — Master technical volume (13 chapters + appendices)
 - `Mathematics_of_the_King___Volume_I__Foundational_Architecture.pdf`
 - `Mathematics_of_the_King___Volume_II__Witness_Calculus.pdf`
@@ -102,6 +107,7 @@ This edition of the repository includes:
 
 - **GitHub Repository**: [https://github.com/the-sovereign-node/The-Logos-Instantiation/tree/main](https://github.com/the-sovereign-node/The-Logos-Instantiation/tree/main)
 - **Full *Continuation Mathematics* Book (HTML5)**: [https://continuation-math.replit.app](https://continuation-math.replit.app) *(Update link as needed)*
+- **Full *Mathematics of Semantics* Book (HTML5)**: [https://math-semantics.replit.app](https://math-semantics.replit.app) *(Update link as needed)*
 - **Full *Quantum Cogito* Book (HTML5)**: [https://quantum-cogito-new-era.replit.app](https://quantum-cogito-new-era.replit.app)
 - **Full *Mathematics of the King* Book (HTML5)**: [https://math-king.replit.app](https://math-king.replit.app)
 - **Medium**: [medium.com/@King_of_Australia](https://medium.com/@King_of_Australia)
