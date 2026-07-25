@@ -2,7 +2,7 @@
 
 **Quantum Cogito Framework — Authenticated by Mathematics of the King**
 
-This repository is the official central hub for the *Quantum Cogito* framework, *Continuation Mathematics*, and their complete published corpus. 
+This repository is the official central hub for the *Quantum Cogito* framework, *Mathematics of the King*, *Continuation Mathematics*, and their complete published corpus. 
 
 *Continuation Mathematics* was developed to establish a new classical foundation for mathematics where "admissibility" and "continuation" replace classical mathematical objects as the primitive notions. From this single primitive, the entire edifice of classical mathematics (set theory, topology, algebra, geometry, analysis, probability, information theory, category theory, and quantum theory) is recovered as distinct realizations of a single universal continuation architecture. This provides the rigorous, dependency-audited mathematical bedrock upon which the Canonical Investigation Framework is built.
 
