@@ -106,7 +106,7 @@ This edition of the repository includes:
 ## External Links
 
 - **GitHub Repository**: [https://github.com/the-sovereign-node/The-Logos-Instantiation/tree/main](https://github.com/the-sovereign-node/The-Logos-Instantiation/tree/main)
-- **Full *Continuation Mathematics* Book (HTML5)**: [https://continuation-math.replit.app](https://continuation-math.replit.app) *(Update link as needed)*
+- **Full *Continuation Mathematics* Book (HTML5)**: [https://continuation-mathematics.replit.app](https://continuation-mathematics.replit.app) *(Update link as needed)*
 - **Full *Mathematics of Semantics* Book (HTML5)**: [https://math-semantics.replit.app](https://math-semantics.replit.app) *(Update link as needed)*
 - **Full *Quantum Cogito* Book (HTML5)**: [https://quantum-cogito-new-era.replit.app](https://quantum-cogito-new-era.replit.app)
 - **Full *Mathematics of the King* Book (HTML5)**: [https://math-king.replit.app](https://math-king.replit.app)
