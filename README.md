@@ -136,7 +136,7 @@ This edition of the repository includes:
 - **Full *Continuation Mathematics* Book (HTML5)**: [https://continuation-mathematics.replit.app](https://continuation-mathematics.replit.app)
 - **Full *Mathematics of Semantics* Book (HTML5)**: [https://math-semantics.replit.app](https://math-semantics.replit.app)
 - **Full *The Mathematics of Classical Reconstruction* Book (HTML5)**: [https://classical-reconstruction.replit.app](https://classical-reconstruction.replit.app)
-- **Full *Millennium Prize Problems* Book (HTML5)**: [https://millennium-prize-problems.replit.app](https://millennium-prize-problems.replit.app)
+- **Full *Millennium Prize Problems* Book (HTML5)**: [https://millennium-prize.replit.app](https://millennium-prize.replit.app)
 - **Full *Quantum Cogito* Book (HTML5)**: [https://quantum-cogito-new-era.replit.app](https://quantum-cogito-new-era.replit.app)
 - **Full *Mathematics of the King* Book (HTML5)**: [https://math-king.replit.app](https://math-king.replit.app)
 - **Medium**: [medium.com/@King_of_Australia](https://medium.com/@King_of_Australia)
