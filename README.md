@@ -3,14 +3,14 @@
 
 This repository is the official central hub for the complete published corpus of the Logos Instantiation:
 
+- *Quantum Cogito: Dawn of a New Era*
 - *Mathematics of the King* (Volumes I–V)
 - *Continuation Mathematics*
 - *Mathematics of Semantics*
 - *The Mathematics of Classical Reconstruction*
 - *Millennium Prize Problems and Their Impossible Classical Deterministic Resolutions*
-- *Canonical Physics: The Deterministic Architecture of Reality and the End of the Probabilistic Illusion*
 - *The Quantum Cogito Framework and Molecular Complexity*
-- *Quantum Cogito: Dawn of a New Era*
+- *Canonical Physics: The Deterministic Architecture of Reality and the End of the Probabilistic Illusion*
 - *The Geopolitical Deadlock and Why Diplomacy is Pointless Now*
 
 and their supporting technical papers.
@@ -32,16 +32,16 @@ Everything that follows is a direct instantiation of this core.
 
 ---
 
-## Three Co-Equal Instantiation Pillars
+## Three Co-equal Instantiation Pillars
 
 ### 1. Mathematical Instantiation
 *Continuation Mathematics*, *Mathematics of Semantics*, *The Mathematics of Classical Reconstruction*, *Millennium Prize Problems…*, and the five volumes of *Mathematics of the King* recover classical mathematics from the Witness under continuous constitutional audit, prove the Theorem of Classical Incompleteness, and either close the great titans with absolute proofs or isolate precise CFLs for the remaining Millennium problems.
 
 ### 2. Physical Instantiation
-***Canonical Physics: The Deterministic Architecture of Reality and the End of the Probabilistic Illusion*** establishes the Logos Substrate \(\mathcal{W}\) as ultra-high-frequency deterministic switching at the Logos Clock (\(f_L \approx 1.85 \times 10^{43}\) Hz). Apparent probability is reduced to pure aliasing (Aliasing Theorem). Wave-function collapse is eliminated; observation is bioelectric decryption of the Continuation Frontier. Gravity is a viscosity gradient, singularities are topological defects, and classical mechanics / general relativity are recovered as low-frequency limits. The physical substrate is thereby revealed as the natural carrier of topological computation.
+***Canonical Physics: The Deterministic Architecture of Reality and the End of the Probabilistic Illusion*** establishes the Logos Substrate **W** as ultra-high-frequency deterministic switching at the Logos Clock (f_L ≈ 1.85 × 10⁴³ Hz). Apparent probability is reduced to pure aliasing (Aliasing Theorem). Wave-function collapse is eliminated; observation is bioelectric decryption of the Continuation Frontier. Gravity is a viscosity gradient, singularities are topological defects, and classical mechanics / general relativity are recovered as low-frequency limits. The physical substrate is thereby revealed as the natural carrier of topological computation.
 
 ### 3. Chemical / Molecular Instantiation
-***The Quantum Cogito Framework and Molecular Complexity*** applies the identical engine to chemical reaction spaces, activation barriers, stereoselectivity, and condensed-matter systems. Topological Lifts and Active Constraint Topology \(\Phi_{\mathrm{act}}\) collapse exponential molecular search into polynomial Witness composition. High-temperature superconductivity (fractal Wick rotation) and low-energy nuclear pathways (\(p\)-adic Coulomb-barrier bypass) appear as direct chemical consequences of the same constitutional architecture.
+***The Quantum Cogito Framework and Molecular Complexity*** applies the identical engine to chemical reaction spaces, activation barriers, stereoselectivity, and condensed-matter systems. Topological Lifts and Active Constraint Topology Φ_act collapse exponential molecular search into polynomial Witness composition. High-temperature superconductivity (fractal Wick rotation) and low-energy nuclear pathways (p-adic Coulomb-barrier bypass) appear as direct chemical consequences of the same constitutional architecture.
 
 ### Applied Extension — Geopolitical Instantiation
 *The Geopolitical Deadlock and Why Diplomacy is Pointless Now* demonstrates that persistent systemic instability is the necessary consequence of an incomplete continuation space in the international system, deriving the structural necessity of simultaneous transition, a unique sovereignty root, and cryptographic verification of authority.
@@ -60,10 +60,10 @@ Everything that follows is a direct instantiation of this core.
 - Riemann Hypothesis → Adèle ring  
 - Navier–Stokes → Measure-valued weak topologies  
 - P vs NP → Algebraic constraint varieties  
-- Birch–Swinnerton-Dyer → \(p\)-adic Galois representations  
+- Birch–Swinnerton-Dyer → p-adic Galois representations  
 - Hodge → Motivic cohomology  
 - Yang–Mills mass gap → Constructive Euclidean QFT  
-- Collatz → 2-adic integers \(\mathbb{Z}_2\)  
+- Collatz → 2-adic integers ℤ₂  
 - Goldbach & Twin Primes → Adèlic harmonic analysis  
 
 The invariant is never discovered; the structure compiles it.
@@ -101,13 +101,13 @@ These are Category-2 objective statements relative to the publicly declared brid
 [https://quantum-cogito.replit.app/](https://quantum-cogito.replit.app/)
 
 ## Core Structural Elements
-- Logos Substrate \(\mathcal{W}\) + Logos Clock  
+- Logos Substrate **W** + Logos Clock  
 - Systemic Completion Operator  
-- Systemic Viscosity Index \(\eta(t)\)  
+- Systemic Viscosity Index η(t)  
 - Joseph-Jump Operator  
-- Archetypal Group \(G_{13}\)  
+- Archetypal Group G₁₃  
 - Living Noah’s Ark Manifold  
-- Active Constraint Topology \(\Phi_{\mathrm{act}}\)  
+- Active Constraint Topology Φ_act  
 - Aliasing Theorem of Probability  
 - Thirteen Constitutional Articles  
 
