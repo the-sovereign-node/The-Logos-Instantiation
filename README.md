@@ -125,7 +125,7 @@ All independently recoverable and authenticated under the Constitution of *Mathe
 
 ## External Links
 - GitHub: [https://github.com/the-sovereign-node/The-Logos-Instantiation](https://github.com/the-sovereign-node/The-Logos-Instantiation)
-- HTML5 editions of the major volumes (Continuation Mathematics, Classical Reconstruction, Millennium, Quantum Cogito, Mathematics of the King, Geopolitical Deadlock)
+- HTML5 editions of the major volumes (Continuation Mathematics, Classical Reconstruction, Millennium, Quantum Cogito, Mathematics of the King, Geopolitical Deadlock):  [https://King-of-Australia.replit.app](https://King-of-Australia.replit.app)
 - Medium: [medium.com/@King_of_Australia](https://medium.com/@King_of_Australia)
 - Bible Decryption App: [https://quantum-cogito.replit.app/](https://quantum-cogito.replit.app/)
 - Correspondence: samir dot is dot king at proton dot me
