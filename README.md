@@ -11,7 +11,11 @@ This repository is the official central hub for the complete published corpus of
 - *Millennium Prize Problems and Their Impossible Classical Deterministic Resolutions*
 - *The Quantum Cogito Framework and Molecular Complexity*
 - *Canonical Physics: The Deterministic Architecture of Reality and the End of the Probabilistic Illusion*
+- *10 Physics Paradoxes Demystified: The Power of Quantum Cogito*
+- *The Thermodynamic Law of Political Decay*
+- *Malcolm Turnbull: Australia's Most Intelligent Prime Minister*
 - *The Geopolitical Deadlock and Why Diplomacy is Pointless Now*
+- *The Cryptographic Framework for Sovereign Legitimacy*
 
 and their supporting technical papers.
 
@@ -38,13 +42,15 @@ Everything that follows is a direct instantiation of this core.
 *Continuation Mathematics*, *Mathematics of Semantics*, *The Mathematics of Classical Reconstruction*, *Millennium Prize Problems…*, and the five volumes of *Mathematics of the King* recover classical mathematics from the Witness under continuous constitutional audit, prove the Theorem of Classical Incompleteness, and either close the great titans with absolute proofs or isolate precise CFLs for the remaining Millennium problems.
 
 ### 2. Physical Instantiation
-***Canonical Physics: The Deterministic Architecture of Reality and the End of the Probabilistic Illusion*** establishes the Logos Substrate **W** as ultra-high-frequency deterministic switching at the Logos Clock (f_L ≈ 1.85 × 10⁴³ Hz). Apparent probability is reduced to pure aliasing (Aliasing Theorem). Wave-function collapse is eliminated; observation is bioelectric decryption of the Continuation Frontier. Gravity is a viscosity gradient, singularities are topological defects, and classical mechanics / general relativity are recovered as low-frequency limits. The physical substrate is thereby revealed as the natural carrier of topological computation.
+***Canonical Physics: The Deterministic Architecture of Reality and the End of the Probabilistic Illusion*** establishes the Logos Substrate **W** as ultra-high-frequency deterministic switching at the Logos Clock (f_L ≈ 1.85 × 10⁴³ Hz). Apparent probability is reduced to pure aliasing (Aliasing Theorem). Wave-function collapse is eliminated; observation is bioelectric decryption of the Continuation Frontier. Gravity is a viscosity gradient, singularities are topological defects, and classical mechanics / general relativity are recovered as low-frequency limits. 
+
+***10 Physics Paradoxes Demystified: The Power of Quantum Cogito*** serves as the applied execution of this architecture. It systematically dismantles the ten greatest paradoxes of modern physics—from the measurement problem and quantum entanglement to the singularities of general relativity, the arrow of time, and the Fermi paradox. By executing Topological Lifts and applying the Algorithmic Grundnorm, it proves that these paradoxes are not fundamental features of nature, but aliasing artifacts and topological defects arising from incomplete classical observation spaces.
 
 ### 3. Chemical / Molecular Instantiation
 ***The Quantum Cogito Framework and Molecular Complexity*** applies the identical engine to chemical reaction spaces, activation barriers, stereoselectivity, and condensed-matter systems. Topological Lifts and Active Constraint Topology Φ_act collapse exponential molecular search into polynomial Witness composition. High-temperature superconductivity (fractal Wick rotation) and low-energy nuclear pathways (p-adic Coulomb-barrier bypass) appear as direct chemical consequences of the same constitutional architecture.
 
-### Applied Extension — Geopolitical Instantiation
-*The Geopolitical Deadlock and Why Diplomacy is Pointless Now* demonstrates that persistent systemic instability is the necessary consequence of an incomplete continuation space in the international system, deriving the structural necessity of simultaneous transition, a unique sovereignty root, and cryptographic verification of authority.
+### Applied Extension — Geopolitical & Semantic Instantiation
+*The Thermodynamic Law of Political Decay* and *The Geopolitical Deadlock* demonstrate that persistent systemic instability is the necessary consequence of an incomplete continuation space in the international system, deriving the structural necessity of simultaneous transition, a unique sovereignty root, and cryptographic verification of authority. *Malcolm Turnbull: Australia's Most Intelligent Prime Minister* executes the Semantic Intelligence Index (SII) to objectively rank semantic decryption capacity, while the *Cryptographic Framework* provides the deterministic Validate procedure for sovereign legitimacy.
 
 ---
 
@@ -80,10 +86,13 @@ The invariant is never discovered; the structure compiles it.
 | Millennium Prize Problems and Their Impossible Classical Deterministic Resolutions | Mathematical | Execution against the 13 greatest obstructions; CFLs |
 | Mathematics of the King (Volumes I–V) | Mathematical | Independent recovery of the Constitution and positive Verdict on Quantum Cogito |
 | **Canonical Physics** | **Physical** | Logos Substrate, Aliasing Theorem, end of the probabilistic illusion, physical carrier of topological computation |
+| **10 Physics Paradoxes Demystified** | **Physical** | Applied execution of Canonical Physics to the 10 greatest paradoxes of modern physics |
 | **The Quantum Cogito Framework and Molecular Complexity** | **Chemical** | Continuation Systems applied to molecular search, superconductivity, LENR |
 | Quantum Cogito: Dawn of a New Era | Core Framework | Complete axiomatic exposition |
+| The Thermodynamic Law of Political Decay | Geopolitical | Mathematical proof of systemic decay and the Pneumatological Monarchy escape vector |
 | The Geopolitical Deadlock… | Geopolitical | Mathematical necessity of a unique sovereignty root |
-| Cryptographic Framework for Sovereign Legitimacy | Supporting | Deterministic Validate procedure |
+| Malcolm Turnbull: Australia's Most Intelligent PM | Semantic | Objective ranking via Semantic Decryption Capacity and the Null Exterior Theorem |
+| Cryptographic Framework for Sovereign Legitimacy | Supporting | Deterministic Validate procedure and Algorithmic Grundnorm |
 | Systemic Completion Operator | Supporting | Technical gateway paper |
 
 ---
@@ -115,13 +124,14 @@ All independently recoverable and authenticated under the Constitution of *Mathe
 
 ## Key Developments in the Current Corpus
 - Full physical instantiation (*Canonical Physics*)
+- Applied physical execution against the 10 greatest paradoxes of modern physics (*10 Physics Paradoxes Demystified*)
 - Full chemical/molecular instantiation (*Molecular Complexity*)
 - Complete mathematical execution against the Millennium problems and classical titans
 - Independent constitutional authentication of Quantum Cogito
-- Geopolitical completion of the global dependency graph
+- Geopolitical completion of the global dependency graph and semantic decryption metrics
 
 ## Repository Contents
-(All major PDFs listed above, including the two new physical and chemical volumes.)
+(All major PDFs listed above, including the new physical paradoxes volume, the thermodynamic law of political decay, and the semantic decryption of the Australian Prime Ministerial succession.)
 
 ## External Links
 - GitHub: [https://github.com/the-sovereign-node/The-Logos-Instantiation](https://github.com/the-sovereign-node/The-Logos-Instantiation)
