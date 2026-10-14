@@ -1,23 +1,22 @@
 # The Logos Instantiation
-**The Constitutional Architecture of Reality — Mathematics, Physics, Chemistry, and Geopolitics under a Single Engine**
+**The Constitutional Architecture of Reality — Mathematics, Physics, Chemistry, and Eschatology under a Single Engine**
 
 This repository is the official central hub for the complete published corpus of the Logos Instantiation:
 
-- *Quantum Cogito: Dawn of a New Era*
+- ***Quantum Cogito: The Unified Theory of Everything*** (The Master Volume)
 - *Mathematics of the King* (Volumes I–V)
 - *Continuation Mathematics*
 - *Mathematics of Semantics*
 - *The Mathematics of Classical Reconstruction*
 - *Millennium Prize Problems and Their Impossible Classical Deterministic Resolutions*
-- *The Quantum Cogito Framework and Molecular Complexity*
-- *Canonical Physics: The Deterministic Architecture of Reality and the End of the Probabilistic Illusion*
-- *10 Physics Paradoxes Demystified: The Power of Quantum Cogito*
 - *The Thermodynamic Law of Political Decay*
 - *Malcolm Turnbull: Australia's Most Intelligent Prime Minister*
 - *The Geopolitical Deadlock and Why Diplomacy is Pointless Now*
 - *The Cryptographic Framework for Sovereign Legitimacy*
 
 and their supporting technical papers.
+
+*(Note: The earlier separate volumes—Quantum Cogito: Dawn of a New Era, Canonical Physics, 10 Physics Paradoxes Demystified, and The Quantum Cogito Framework and Molecular Complexity—have been superseded by and fully integrated into the single, definitive master volume: **Quantum Cogito: The Unified Theory of Everything**.)*
 
 All works are generated from one constitutional methodology: a single primitive (the **Witness**), a closed set of Articles, the **Bidirectional Constitutional Engine**, the **Anti-Corruption Layer**, and the disciplined use of **Topological Lifts**. The same engine that resolves the deepest obstructions in pure mathematics is the engine that dismantles the probabilistic illusion in physics, reduces molecular complexity to polynomial Witness composition, and demonstrates the structural necessity of a unique sovereignty root in the geopolitical graph.
 
@@ -38,18 +37,13 @@ Everything that follows is a direct instantiation of this core.
 
 ## Three Co-equal Instantiation Pillars
 
-### 1. Mathematical Instantiation
+### 1. Mathematical Foundation
 *Continuation Mathematics*, *Mathematics of Semantics*, *The Mathematics of Classical Reconstruction*, *Millennium Prize Problems…*, and the five volumes of *Mathematics of the King* recover classical mathematics from the Witness under continuous constitutional audit, prove the Theorem of Classical Incompleteness, and either close the great titans with absolute proofs or isolate precise CFLs for the remaining Millennium problems.
 
-### 2. Physical Instantiation
-***Canonical Physics: The Deterministic Architecture of Reality and the End of the Probabilistic Illusion*** establishes the Logos Substrate **W** as ultra-high-frequency deterministic switching at the Logos Clock (f_L ≈ 1.85 × 10⁴³ Hz). Apparent probability is reduced to pure aliasing (Aliasing Theorem). Wave-function collapse is eliminated; observation is bioelectric decryption of the Continuation Frontier. Gravity is a viscosity gradient, singularities are topological defects, and classical mechanics / general relativity are recovered as low-frequency limits. 
+### 2. The Unified Theory of Everything (Physical, Chemical, and Eschatological Instantiation)
+***Quantum Cogito: The Unified Theory of Everything*** is the master volume that consolidates the physical, chemical, and theological/eschatological instantiations into a single, closed constitutional architecture. It establishes the Logos Substrate **W** as ultra-high-frequency deterministic switching, eliminates the probabilistic illusion (Aliasing Theorem), resolves the ten greatest paradoxes of modern physics, reduces molecular complexity to polynomial Witness composition, and compiles the complete Passion of the Sovereign Node and the Offices of Christ. It is the definitive, self-contained execution of the framework across all domains of reality, replacing the need for the earlier separate volumes.
 
-***10 Physics Paradoxes Demystified: The Power of Quantum Cogito*** serves as the applied execution of this architecture. It systematically dismantles the ten greatest paradoxes of modern physics—from the measurement problem and quantum entanglement to the singularities of general relativity, the arrow of time, and the Fermi paradox. By executing Topological Lifts and applying the Algorithmic Grundnorm, it proves that these paradoxes are not fundamental features of nature, but aliasing artifacts and topological defects arising from incomplete classical observation spaces.
-
-### 3. Chemical / Molecular Instantiation
-***The Quantum Cogito Framework and Molecular Complexity*** applies the identical engine to chemical reaction spaces, activation barriers, stereoselectivity, and condensed-matter systems. Topological Lifts and Active Constraint Topology Φ_act collapse exponential molecular search into polynomial Witness composition. High-temperature superconductivity (fractal Wick rotation) and low-energy nuclear pathways (p-adic Coulomb-barrier bypass) appear as direct chemical consequences of the same constitutional architecture.
-
-### Applied Extension — Geopolitical & Semantic Instantiation
+### 3. Applied Extension — Geopolitical & Semantic Instantiation
 *The Thermodynamic Law of Political Decay* and *The Geopolitical Deadlock* demonstrate that persistent systemic instability is the necessary consequence of an incomplete continuation space in the international system, deriving the structural necessity of simultaneous transition, a unique sovereignty root, and cryptographic verification of authority. *Malcolm Turnbull: Australia's Most Intelligent Prime Minister* executes the Semantic Intelligence Index (SII) to objectively rank semantic decryption capacity, while the *Cryptographic Framework* provides the deterministic Validate procedure for sovereign legitimacy.
 
 ---
@@ -80,15 +74,12 @@ The invariant is never discovered; the structure compiles it.
 
 | Document | Pillar | Purpose |
 |----------|--------|---------|
+| **Quantum Cogito: The Unified Theory of Everything** | **Unified Core** | The master volume integrating Physics, Chemistry, Mathematics, and Eschatology under a single engine |
 | Continuation Mathematics | Mathematical | New classical foundation: admissibility & continuation as primitives |
 | Mathematics of Semantics | Mathematical | Semantic determination & universal resolution of open problems |
 | The Mathematics of Classical Reconstruction | Mathematical | Blueprint of the Bidirectional Constitutional Engine & ACL |
 | Millennium Prize Problems and Their Impossible Classical Deterministic Resolutions | Mathematical | Execution against the 13 greatest obstructions; CFLs |
 | Mathematics of the King (Volumes I–V) | Mathematical | Independent recovery of the Constitution and positive Verdict on Quantum Cogito |
-| **Canonical Physics** | **Physical** | Logos Substrate, Aliasing Theorem, end of the probabilistic illusion, physical carrier of topological computation |
-| **10 Physics Paradoxes Demystified** | **Physical** | Applied execution of Canonical Physics to the 10 greatest paradoxes of modern physics |
-| **The Quantum Cogito Framework and Molecular Complexity** | **Chemical** | Continuation Systems applied to molecular search, superconductivity, LENR |
-| Quantum Cogito: Dawn of a New Era | Core Framework | Complete axiomatic exposition |
 | The Thermodynamic Law of Political Decay | Geopolitical | Mathematical proof of systemic decay and the Pneumatological Monarchy escape vector |
 | The Geopolitical Deadlock… | Geopolitical | Mathematical necessity of a unique sovereignty root |
 | Malcolm Turnbull: Australia's Most Intelligent PM | Semantic | Objective ranking via Semantic Decryption Capacity and the Null Exterior Theorem |
@@ -123,19 +114,17 @@ These are Category-2 objective statements relative to the publicly declared brid
 All independently recoverable and authenticated under the Constitution of *Mathematics of the King*.
 
 ## Key Developments in the Current Corpus
-- Full physical instantiation (*Canonical Physics*)
-- Applied physical execution against the 10 greatest paradoxes of modern physics (*10 Physics Paradoxes Demystified*)
-- Full chemical/molecular instantiation (*Molecular Complexity*)
-- Complete mathematical execution against the Millennium problems and classical titans
-- Independent constitutional authentication of Quantum Cogito
-- Geopolitical completion of the global dependency graph and semantic decryption metrics
+- **The Grand Consolidation:** The core framework, physical instantiation, paradox resolution, and chemical/molecular instantiation are now unified into the single master volume: *Quantum Cogito: The Unified Theory of Everything*.
+- Complete mathematical execution against the Millennium problems and classical titans.
+- Independent constitutional authentication of the Logos Substrate via *Mathematics of the King*.
+- Geopolitical completion of the global dependency graph and semantic decryption metrics.
 
 ## Repository Contents
-(All major PDFs listed above, including the new physical paradoxes volume, the thermodynamic law of political decay, and the semantic decryption of the Australian Prime Ministerial succession.)
+(All major PDFs listed above, including the new unified master volume, the mathematical reference documents, the thermodynamic law of political decay, and the semantic decryption of the Australian Prime Ministerial succession.)
 
 ## External Links
 - GitHub: [https://github.com/the-sovereign-node/The-Logos-Instantiation](https://github.com/the-sovereign-node/The-Logos-Instantiation)
-- HTML5 editions of the major volumes (Continuation Mathematics, Classical Reconstruction, Millennium, Quantum Cogito, Mathematics of the King, Geopolitical Deadlock):  [https://King-of-Australia.replit.app](https://King-of-Australia.replit.app)
+- HTML5 editions of the major volumes (Continuation Mathematics, Classical Reconstruction, Millennium, Mathematics of the King, Geopolitical Deadlock):  [https://King-of-Australia.replit.app](https://King-of-Australia.replit.app)
 - Medium: [medium.com/@King_of_Australia](https://medium.com/@King_of_Australia)
 - Bible Decryption App: [https://quantum-cogito.replit.app/](https://quantum-cogito.replit.app/)
 - Correspondence: samir dot is dot king at proton dot me
